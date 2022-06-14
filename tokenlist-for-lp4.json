@@ -11,7 +11,7 @@
           "name": "Unifarm Token",
           "symbol": "UFARM",
           "address": "0xf7745D2e7FdE51c542568F718457d983F761e8C3",
-          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
+          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/ufarm.png",
           "decimals": 18,
           "price": 0.01418,
           "chainId": 4
@@ -20,7 +20,7 @@
           "name": "Tether USD",
           "symbol": "USDT",
           "address": "0xd45ae782ba3879b0ba9e6773335a67f5d99f734e",
-          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/usdt.png",
+          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/usdt.png",
           "decimals": 6,
           "price": 1,
           "chainId": 4
@@ -37,7 +37,7 @@
           "name": "Skyrim Finance",
           "symbol": "SKYRIM",
           "address": "0x983626cBF03Be12F3086c01631356bAB01864d28",
-          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/skyrim.png",
+          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/skyrim.png",
           "decimals": 18,
           "price": 0.1503,
           "chainId": 4
@@ -63,7 +63,7 @@
           "name": "Pinknode",
           "symbol": "PNODE",
           "address": "0x909B40A88a27F7FD2C8Ea592571BF4d862985563",
-          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pnode.png",
+          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/pnode.png",
           "decimals": 18,
           "price": 0.04647,
           "chainId": 4
@@ -89,7 +89,7 @@
           "name": "GamyFi",
           "symbol": "GFX",
           "address": "0xAC64a95Cf82F0bd02d69f68C365cCaE0E853fDc4",
-          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gfx.png",
+          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/gfx.png",
           "decimals": 18,
           "price": 2.59,
           "chainId": 4
@@ -98,7 +98,7 @@
           "name": "Tether USD",
           "symbol": "USDT",
           "address": "0xd45ae782ba3879b0ba9e6773335a67f5d99f734e",
-          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/usdt.png",
+          "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/usdt.png",
           "decimals": 6,
           "price": 1,
           "chainId": 4
