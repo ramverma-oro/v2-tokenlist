@@ -1,0 +1,64 @@
+{
+   "maintainer": "Unifarm Protocol",
+   "ipfs": "ipfs://",
+   "tokens": [
+    {
+        "name": "Unifarm Token",
+        "symbol": "UFARM",
+        "address": "0xf7745D2e7FdE51c542568F718457d983F761e8C3",
+        "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/ufarm.png",
+        "decimals": 18,
+        "price": {
+          "0x78ea1fff3b4b886b8d176538ef1560ac2da2410c-0x1": 0.049,
+          "0xb6aa2768307916834baa3320b6dc55d6c5d15091-0x1": 0.01418
+        },
+        "chainId": 4
+    },
+    {
+        "name": "RAZOR",
+        "symbol": "RAZOR",
+        "address": "0x3CeEB5d4BA5F21bDdB09f4Fb834792D00DA03A5b",
+        "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/razor.png",
+        "decimals": 18,
+        "price": {
+            "0x78ea1fff3b4b886b8d176538ef1560ac2da2410c-0x2": 0.10
+        },
+        "chainId": 4,
+        "tags": []
+    },
+    {
+        "name": "STACK OS",
+        "symbol": "STACK",
+        "address": "0x96E9438Cb0F37E1E357A903a3189b2935098440A",
+        "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/stack.png",
+        "decimals": 18,
+        "price": {
+           "0x78ea1fff3b4b886b8d176538ef1560ac2da2410c-0x3": 0.046 
+        },
+        "chainId": 4
+    },
+    {
+        "name": "TeraBlock",
+        "symbol": "TBC",
+        "address": "0x44D39aecD5b5F5500cC077A2c11a404223B91582",
+        "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/terablock.png",
+        "decimals": 18,
+        "price": {
+           "0x78ea1fff3b4b886b8d176538ef1560ac2da2410c-0x5": 0.069 
+        },
+        "chainId": 4
+    },
+    {
+        "name": "ApeCoin",
+        "symbol": "APE",
+        "address": "0x523868b60EeaE62b6602Ea73F9699118eEF13aD1",
+        "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ape.png",
+        "decimals": 18,
+        "price": {
+           "0xb6aa2768307916834baa3320b6dc55d6c5d15091-0x2": 7.13 
+        },
+        "chainId": 4,
+        "tags": []
+    } 
+   ] 
+}
