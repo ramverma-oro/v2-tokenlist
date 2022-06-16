@@ -1,6 +1,7 @@
 {
   "maintainer": "Unifarm Protocol",
   "ipfs": "ipfs://",
+  "networkId": 4,
   "tokens": [
     {
       "name": "Unifarm Token",
@@ -12,8 +13,7 @@
         "YF/V38": 0.049,
         "SF/V39": 0.01418,
         "LF/V1": 0.00217
-      },
-      "chainId": 4
+      }
     },
     {
       "name": "RAZOR",
@@ -24,7 +24,6 @@
       "price": {
         "YF/V38": 0.1
       },
-      "chainId": 4,
       "tags": []
     },
     {
@@ -35,8 +34,7 @@
       "decimals": 18,
       "price": {
         "YF/V38": 0.046
-      },
-      "chainId": 4
+      }
     },
     {
       "name": "TeraBlock",
@@ -46,8 +44,7 @@
       "decimals": 18,
       "price": {
         "YF/V38": 0.069
-      },
-      "chainId": 4
+      }
     },
     {
       "name": "ApeCoin",
@@ -58,7 +55,6 @@
       "price": {
         "SF/V39": 3.86
       },
-      "chainId": 4,
       "tags": []
     },
     {
@@ -69,8 +65,7 @@
       "decimals": 18,
       "price": {
         "LF/V1": 0.05261
-      },
-      "chainId": 4
+      }
     },
     {
       "name": "HASH Token",
@@ -80,8 +75,7 @@
       "decimals": 18,
       "price": {
         "LF/V1": 0.00416226
-      },
-      "chainId": 4
+      }
     },
     {
       "name": "Picipo",
@@ -91,8 +85,7 @@
       "decimals": 18,
       "price": {
         "LF/V1": 0.04
-      },
-      "chainId": 4
+      }
     },
     {
       "name": "Tether USD",
@@ -102,8 +95,7 @@
       "decimals": 6,
       "price": {
         "LF/V1": 0.99
-      },
-      "chainId": 4
+      }
     },
     {
       "name": "Skyrim Finance",
@@ -113,8 +105,7 @@
       "decimals": 18,
       "price": {
         "LF/V1": 0.00389581
-      },
-      "chainId": 4
+      }
     },
     {
       "name": "Wrapped Ethereum",
@@ -124,8 +115,7 @@
       "decimals": 18,
       "price": {
         "LF/V1": 1189.38
-      },
-      "chainId": 4
+      }
     },
     {
       "name": "Pinknode",
@@ -135,8 +125,7 @@
       "decimals": 18,
       "price": {
         "LF/V1": 0.01467145
-      },
-      "chainId": 4
+      }
     },
     {
       "name": "GamyFi",
@@ -146,8 +135,7 @@
       "decimals": 18,
       "price": {
         "LF/V1": 0.065911
-      },
-      "chainId": 4
+      }
     }
   ]
 }
