@@ -9,7 +9,7 @@
       "address": "0xf7745D2e7FdE51c542568F718457d983F761e8C3",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/ufarm.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "YF/V38": 0.049,
         "SF/V39": 0.01418,
         "LF/V1": 0.00217
@@ -21,7 +21,7 @@
       "address": "0x3CeEB5d4BA5F21bDdB09f4Fb834792D00DA03A5b",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/razor.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "YF/V38": 0.1
       },
       "tags": []
@@ -32,7 +32,7 @@
       "address": "0x96E9438Cb0F37E1E357A903a3189b2935098440A",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/stack.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "YF/V38": 0.046
       }
     },
@@ -42,7 +42,7 @@
       "address": "0x44D39aecD5b5F5500cC077A2c11a404223B91582",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/terablock.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "YF/V38": 0.069
       }
     },
@@ -52,7 +52,7 @@
       "address": "0x523868b60EeaE62b6602Ea73F9699118eEF13aD1",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ape.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "SF/V39": 3.86
       },
       "tags": []
@@ -63,7 +63,7 @@
       "address": "0x3da4576595e49a0aBBAd0723e309DC62FB7D7dce",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cudos.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "LF/V1": 0.05261
       }
     },
@@ -73,7 +73,7 @@
       "address": "0x066607b716e3Ed0d795d16A03CC954D6D2908CF6",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hash.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "LF/V1": 0.00416226
       }
     },
@@ -83,7 +83,7 @@
       "address": "0xaD2F6c3d61B0F6448f84167B0f00895a8d639a97",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/picipo.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "LF/V1": 0.04
       }
     },
@@ -93,7 +93,7 @@
       "address": "0xd45ae782ba3879b0ba9e6773335a67f5d99f734e",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/usdt.png",
       "decimals": 6,
-      "price": {
+      "pricePoints": {
         "LF/V1": 0.99
       }
     },
@@ -103,7 +103,7 @@
       "address": "0x983626cBF03Be12F3086c01631356bAB01864d28",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/skyrim.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "LF/V1": 0.00389581
       }
     },
@@ -113,7 +113,7 @@
       "address": "0xc778417e063141139fce010982780140aa0cd5ab",
       "icon": "https://oropocket.com/unifarm/assets/icons/WETH.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "LF/V1": 1189.38
       }
     },
@@ -123,7 +123,7 @@
       "address": "0x909B40A88a27F7FD2C8Ea592571BF4d862985563",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/pnode.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "LF/V1": 0.01467145
       }
     },
@@ -133,7 +133,7 @@
       "address": "0xAC64a95Cf82F0bd02d69f68C365cCaE0E853fDc4",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/gfx.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "LF/V1": 0.065911
       }
     },
@@ -143,7 +143,7 @@
       "address": "0xCeABE8ce0b52d5B1B978C3D53AAd21244337540f",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ntvrk.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
        "YF/V38": 0.3512
       },
       "chainId": 4
