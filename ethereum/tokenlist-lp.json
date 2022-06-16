@@ -4,6 +4,9 @@
   "tokenlist": [
     {
       "lpToken": "0xdac20a461fc46d2644862de1c2781ef3d1a758a2",
+      "price": {
+       "LF/V1": 638876.5649999399 
+      },
       "decimals": 18,
       "dex": "Uniswap V2",
       "tokens": [
@@ -14,6 +17,9 @@
     },
     {
       "lpToken": "0xb99436c0760f833f1818cfe6d45a5aaed7512f50",
+      "price": {
+       "LF/V1": 3.0983866769659336
+      },
       "decimals": 18,
       "dex": "Uniswap V2",
       "tokens": [
@@ -24,6 +30,9 @@
     },
     {
       "lpToken": "0x5429268d0ef63e1a1cab50911ae9f23dee10eb14",
+      "price": {
+       "LF/V1": 0.48
+      },
       "decimals": 18,
       "dex": "Uniswap V2",
       "tokens": [
@@ -34,6 +43,9 @@
     },
     {
       "lpToken": "0xcfcc8f36b8d152a9e066ac874e8f0c730a38ae3f",
+      "price": {
+       "LF/V1": 1754116.0386140584
+      },
       "decimals": 18,
       "dex": "Uniswap V2",
       "tokens": [
