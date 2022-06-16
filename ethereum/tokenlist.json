@@ -136,6 +136,17 @@
       "price": {
         "LF/V1": 0.065911
       }
+    },
+    {
+      "name": "Netvrk",
+      "symbol": "NTVRK",
+      "address": "0xCeABE8ce0b52d5B1B978C3D53AAd21244337540f",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ntvrk.png",
+      "decimals": 18,
+      "price": {
+       "YF/V38": 0.3512
+      },
+      "chainId": 4
     }
   ]
 }
