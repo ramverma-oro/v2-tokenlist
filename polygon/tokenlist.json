@@ -1,6 +1,7 @@
 {
   "maintainer": "Unifarm Protocol",
   "ipfs": "ipfs://",
+  "networkId": 56,
   "tokens": [
     {
       "name": "Unifarm Token",
