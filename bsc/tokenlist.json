@@ -43,11 +43,22 @@
       "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet-01/.github/assets/icons/cake.png",
       "decimals": 18,
-      "price": {
+      "pricePoints": {
         "LF/V1": 3.33
       },
       "chainId": 56,
       "tags": []
+    },
+    {
+          "name": "BNB",
+          "symbol": "BNB",
+          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+          "icon": "https://oropocket.com/unifarm/assets/icons/wbnb.png",
+          "decimals": 18,
+          "pricePoints": {
+          "LF/V1": 211.34
+          },
+          "chainId": 56
     }
   ]
 }
