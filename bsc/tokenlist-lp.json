@@ -1,0 +1,21 @@
+{
+  "maintainer": "Unifarm",
+  "ipfs": "ipfs://",
+  "networkId": 56,
+  "tokenlist": [
+    {
+      "lpToken": "0x6b19a3c14c32e6d6e8aa993f75c887b0222388f5",
+      "pricePoints": {
+        "LF/V1": 1.49
+      },
+      "decimals": 18,
+      "dex": "PancakeSwap",
+      "tokens": [
+        "0x0A356f512f6fCE740111ee04Ab1699017a908680",
+        "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+      ],
+      "dexAddLiquidityPage": "https://pancakeswap.finance/add/0x0A356f512f6fCE740111ee04Ab1699017a908680/BNB",
+      "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
+    }
+  ]
+}

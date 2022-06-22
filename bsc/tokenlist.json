@@ -1,0 +1,52 @@
+{
+  "maintainer": "Unifarm Protocol",
+  "ipfs": "ipfs://",
+  "tokens": [
+    {
+      "name": "Unifarm Token",
+      "symbol": "UFARM",
+      "address": "0x0A356f512f6fCE740111ee04Ab1699017a908680",
+      "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
+      "decimals": 18,
+      "pricePoints": {
+        "LF/V1": 0.00217
+      },
+      "chainId": 56
+    },
+    {
+      "name": "Binance-Peg BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "icon": "https://oropocket.com/unifarm/assets/icons/Layer 56.png",
+      "decimals": 18,
+      "pricePoints": {
+        "LF/V1": 1
+      },
+      "chainId": 56
+    },
+    {
+      "name": "PAX Gold",
+      "symbol": "PAXG",
+      "address": "0x7950865a9140cb519342433146ed5b40c6f210f7",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet-01/.github/assets/icons/paxg.png",
+      "decimals": 18,
+      "pricePoints": {
+        "LF/V1": 1834.86
+      },
+      "chainId": 56,
+      "tags": []
+    },
+    {
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet-01/.github/assets/icons/cake.png",
+      "decimals": 18,
+      "price": {
+        "LF/V1": 3.33
+      },
+      "chainId": 56,
+      "tags": []
+    }
+  ]
+}
