@@ -10,7 +10,7 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.00217
+        "SF/V1": 0.00217
       },
       "chainId": 137
     }
