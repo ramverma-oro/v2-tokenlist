@@ -59,6 +59,17 @@
           "LF/V1": 211.34
           },
           "chainId": 56
+    },
+    {
+          "name": "Shiba Inu",
+          "symbol": "SHIB",
+          "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+          "icon": "https://oropocket.com/unifarm/assets/icons/shib.png",
+          "decimals": 18,
+          "pricePoints": {
+          "LF/V1": 0.00001026
+          },
+          "chainId": 56
     }
   ]
 }
