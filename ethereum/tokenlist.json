@@ -147,6 +147,39 @@
        "YF/V38": 0.3512
       },
       "chainId": 4
+    },
+    {
+      "name": "ROUTE",
+      "symbol": "ROUTE",
+      "address": "0xb47f597260edbf30386aecc28938b25d5f0635b7",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/route.png",
+      "decimals": 18,
+      "pricePoints": {
+       "YF/V38": 1.73
+      },
+      "chainId": 4
+    },
+    {
+      "name": "ZeroSwap Token",
+      "symbol": "ZEE",
+      "address": "0x3555209ff2933b548ee31646cb3ee201f41a2625",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/zeroswap.png",
+      "decimals": 18,
+      "pricePoints": {
+        "YF/V38": 0.35
+      },
+      "chainId": 4
+    },
+    {
+      "name": "Nord Token",
+      "symbol": "NORD",
+      "address": "0xb596e98821c558860ec5d3d59460ea9e19a44f66",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/nord.png",
+      "decimals": 18,
+      "pricePoints": {
+       "YF/V38": 1.73
+      },
+      "chainId": 4
     }
   ]
 }
