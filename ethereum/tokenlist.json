@@ -1,1 +1,62 @@
-
+{
+  "maintainer": "Unifarm Protocol",
+  "ipfs": "ipfs://",
+  "networkId": 1,
+  "tokens": [
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "icon": "",
+      "decimals": 18,
+      "pricePoints": {
+        "YF/V2": 1222.96
+      },
+      "chainId": 1
+    },
+    {
+      "name": "UniFarm",
+      "symbol": "UFARM",
+      "address": "0x40986a85B4cFCDb054A6CBFB1210194fee51af88",
+      "icon": "",
+      "decimals": 18,
+      "pricePoints": {
+        "YF/V2": 0.002
+      },
+      "chainId": 1
+    },
+    {
+      "name": "DeFi Pulse Index",
+      "symbol": "DPI",
+      "address": "0x1494CA1F11D487c2bBe4543E90080AeBa4BA3C2b",
+      "icon": "",
+      "decimals": 18,
+      "pricePoints": {
+        "YF/V2": 79.89
+      },
+      "chainId": 1
+    },
+    {
+      "name": "Metaverse Index",
+      "symbol": "MVI",
+      "address": "0x72e364F2ABdC788b7E918bc238B21f109Cd634D7",
+      "icon": "",
+      "decimals": 18,
+      "pricePoints": {
+        "YF/V2": 43.08
+      },
+      "chainId": 1
+    },
+    {
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "address": "0x4d224452801ACEd8B2F0aebE155379bb5D594381",
+      "icon": "",
+      "decimals": 18,
+      "pricePoints": {
+        "YF/V2": 5.45
+      },
+      "chainId": 1
+    }
+  ]
+}
