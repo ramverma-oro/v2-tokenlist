@@ -1,0 +1,21 @@
+{
+  "maintainer": "Unifarm",
+  "ipfs": "ipfs://",
+  "networkId": 137,
+  "tokenlist": [
+    {
+      "lpToken": "0xDf4bd84B8c709C07a8db842714f4b9Dd8a1755E1",
+      "pricePoints": {
+        "LF/V3": 97256.10
+      },
+      "decimals": 18,
+      "dex": "Dfyn",
+      "tokens": [
+        "0xA7305Ae84519fF8Be02484CdA45834C4E7D13Dd6",
+        "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+      ],
+      "dexAddLiquidityPage": "https://exchange.dfyn.network/#/add/0xA7305Ae84519fF8Be02484CdA45834C4E7D13Dd6/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "dexSwapPage": "https://exchange.dfyn.network/#/swap?outputCurrency=0xa7305ae84519ff8be02484cda45834c4e7d13dd6&inputCurrency=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+    }
+  ]
+}
