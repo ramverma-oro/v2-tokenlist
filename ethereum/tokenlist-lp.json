@@ -1,0 +1,21 @@
+{
+  "maintainer": "Unifarm",
+  "ipfs": "ipfs://",
+  "networkId": 1,
+  "tokenlist": [
+    {
+      "lpToken": "0x68688beb6f1eac7ea5041a367b0939b17931c17b",
+      "pricePoints": {
+        "LF/V2": 3.84
+      },
+      "decimals": 18,
+      "dex": "Uniswap",
+      "tokens": [
+        "0x0A356f512f6fCE740111ee04Ab1699017a908680",
+        "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+      ],
+      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/ETH?chain=mainnet",
+      "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
+    }
+  ]
+}
