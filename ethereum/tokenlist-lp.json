@@ -11,8 +11,8 @@
       "decimals": 18,
       "dex": "Uniswap",
       "tokens": [
-        "0x0A356f512f6fCE740111ee04Ab1699017a908680",
-        "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
+        "0x40986a85B4cFCDb054A6CBFB1210194fee51af88",
+        "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
       ],
       "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/ETH?chain=mainnet",
       "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
