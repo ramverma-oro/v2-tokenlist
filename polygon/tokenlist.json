@@ -11,7 +11,8 @@
       "decimals": 18,
       "pricePoints": {
         "SF/V1": 0.00217,
-        "LF/V3": 0.002
+        "LF/V3": 0.002,
+        "YF/V3": 0.002
       },
       "chainId": 137
     },
@@ -22,7 +23,8 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/matic.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V3": 0.51
+        "LF/V3": 0.51,
+        "YF/V3": 0.53
       },
       "chainId": 137
     },
@@ -33,7 +35,8 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/wbtc.png",
       "decimals": 8,
       "pricePoints": {
-        "LF/V3": 20346
+        "LF/V3": 20346,
+        "YF/V3": 20657
       },
       "chainId": 137
     },
@@ -44,7 +47,8 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/usdc.png",
       "decimals": 6,
       "pricePoints": {
-        "LF/V3": 1
+        "LF/V3": 1,
+        "YF/v3": 1
       },
       "chainId": 137
     },
@@ -56,6 +60,17 @@
       "decimals": 18,
       "pricePoints": {
         "LF/V3": 1.1
+      },
+      "chainId": 137
+    },
+    {
+      "name": "Chainlink",
+      "symbol": "LINK",
+      "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
+      "icon": "https://oropocket.com/unifarm/assets/icons/link.png",
+      "decimals": 18,
+      "pricePoints": {
+        "YF/V3": 6.65
       },
       "chainId": 137
     }
