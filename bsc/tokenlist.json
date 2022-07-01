@@ -10,7 +10,8 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.00217
+        "LF/V1": 0.00217,
+        "YF/V4": 0.002
       },
       "chainId": 56
     },
@@ -21,7 +22,8 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/Layer 56.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 1
+        "LF/V1": 1,
+        "YF/V4": 1
       },
       "chainId": 56
     },
@@ -44,7 +46,8 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/mainnet-01/.github/assets/icons/cake.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 3.33
+        "LF/V1": 3.33,
+        "YF/V4": 3.3
       },
       "chainId": 56,
       "tags": []
@@ -56,7 +59,8 @@
           "icon": "https://oropocket.com/unifarm/assets/icons/wbnb.png",
           "decimals": 18,
           "pricePoints": {
-          "LF/V1": 211.34
+          "LF/V1": 211.34,
+          "YF/V4": 233.43  
           },
           "chainId": 56
     },
@@ -68,6 +72,18 @@
           "decimals": 18,
           "pricePoints": {
           "LF/V1": 0.00001026
+          },
+          "chainId": 56
+    },
+    {
+          "name": "STEPN",
+          "symbol": "GMT",
+          "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+          "icon": "https://oropocket.com/unifarm/assets/icons/gmt.png",
+          "decimals": 8,
+          "pricePoints": {
+          "LF/V1": 0.00001026,
+          "YF/V4": 0.91  
           },
           "chainId": 56
     }
