@@ -37,7 +37,7 @@
       "lpToken": "0x5429268d0ef63e1a1cab50911ae9f23dee10eb14",
       "pricePoints": {
        "LF/V1": 0.48,
-       "LF/v3": 0.30
+       "LF/V3": 0.30
       },
       "decimals": 18,
       "dex": "Uniswap V2",
