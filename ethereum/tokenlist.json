@@ -150,6 +150,17 @@
        "YF/V38": 0.3512
       },
       "chainId": 4
+    },
+    {
+      "name": "Route",
+      "symbol": "ROUTE",
+      "address": "0xb47F597260EdBf30386AECC28938B25D5f0635B7",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/route.png",
+      "decimals": 18,
+      "pricePoints": {
+       "LF/V3": 2.66
+      },
+      "chainId": 4
     }
   ]
 }
