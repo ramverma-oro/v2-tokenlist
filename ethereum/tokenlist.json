@@ -12,7 +12,8 @@
       "pricePoints": {
         "YF/V38": 0.049,
         "SF/V39": 0.01418,
-        "LF/V1": 0.00217
+        "LF/V1": 0.00217,
+        "LF/V3": 0.00263
       }
     },
     {
@@ -22,7 +23,8 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/razor.png",
       "decimals": 18,
       "pricePoints": {
-        "YF/V38": 0.1
+        "YF/V38": 0.1,
+        "LF/V3": 0.00586
       },
       "tags": []
     },
@@ -64,7 +66,8 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cudos.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.05261
+        "LF/V1": 0.05261,
+        "LF/V3": 0.009650
       }
     },
     {
