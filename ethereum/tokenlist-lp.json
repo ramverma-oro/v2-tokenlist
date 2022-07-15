@@ -7,7 +7,8 @@
       "lpToken": "0xdac20a461fc46d2644862de1c2781ef3d1a758a2",
       "pricePoints": {
        "LF/V1": 638876.5649999399,
-       "LF/V3": 638876.5649999399
+       "LF/V3": 638876.5649999399,
+       "LF/V2": 638876.5649999399
       },
       "decimals": 18,
       "dex": "Uniswap V2",
@@ -23,6 +24,7 @@
       "pricePoints": {
        "LF/V1": 3.0983866769659336,
        "LF/V3": 4.0,
+       "LF/V2": 3.0,
       },
       "decimals": 18,
       "dex": "Uniswap V2",
@@ -37,7 +39,8 @@
       "lpToken": "0x5429268d0ef63e1a1cab50911ae9f23dee10eb14",
       "pricePoints": {
        "LF/V1": 0.48,
-       "LF/V3": 0.30
+       "LF/V3": 0.30,
+       "LF/V2": 0.30
       },
       "decimals": 18,
       "dex": "Uniswap V2",
