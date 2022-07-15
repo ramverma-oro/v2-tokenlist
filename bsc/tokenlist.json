@@ -11,7 +11,8 @@
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 0.00217,
-        "YF/V4": 0.002
+        "YF/V4": 0.002,
+        "BSC/LF4": 0.0028
       },
       "chainId": 56
     },
@@ -86,6 +87,28 @@
           "YF/V4": 0.91  
           },
           "chainId": 56
+    },
+    {
+      "name": "Canumo",
+      "symbol": "CANU",
+      "address": "0xdBB66Eb9f4D737B49aE5CD4De25E6C8da8B034f9",
+      "icon": "https://oropocket.com/unifarm/assets/icons/canu.png",
+      "decimals": 18,
+      "pricePoints": {
+        "BSC/LF4": 0.00052
+      },
+      "chainId": 56
+    },
+    {
+      "name": "Derived",
+      "symbol": "DVDX",
+      "address": "0x4b4135a99775368f349b6f904808b648a9948393",
+      "icon": "https://oropocket.com/unifarm/assets/icons/dvdx.png",
+      "decimals": 18,
+      "pricePoints": {
+        "BSC/LF4": 0.00072
+      },
+      "chainId": 56
     }
   ]
 }
