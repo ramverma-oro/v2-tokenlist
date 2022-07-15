@@ -12,7 +12,9 @@
       "pricePoints": {
         "YF/V38": 0.049,
         "SF/V39": 0.01418,
-        "LF/V1": 0.00217
+        "LF/V1": 0.00217,
+        "LF/V3": 0.00263,
+        "LF/V2": 0.00263
       }
     },
     {
@@ -22,7 +24,9 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/razor.png",
       "decimals": 18,
       "pricePoints": {
-        "YF/V38": 0.1
+        "YF/V38": 0.1,
+        "LF/V3": 0.00586,
+        "LF/V2": 0.00586
       },
       "tags": []
     },
@@ -64,7 +68,9 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cudos.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.05261
+        "LF/V1": 0.05261,
+        "LF/V3": 0.009650,
+        "LF/V2": 0.009650
       }
     },
     {
@@ -74,7 +80,9 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hash.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.00416226
+        "LF/V1": 0.00416226,
+        "LF/V3": 0.00416226,
+        "LF/V2": 0.00416226
       }
     },
     {
@@ -94,7 +102,9 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/usdt.png",
       "decimals": 6,
       "pricePoints": {
-        "LF/V1": 0.99
+        "LF/V1": 0.99,
+        "LF/V3": 0.99,
+        "LF/V2": 0.99
       }
     },
     {
@@ -104,7 +114,9 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/skyrim.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.00389581
+        "LF/V1": 0.00389581,
+        "LF/V3": 0.00389581,
+        "LF/V2": 0.00389581
       }
     },
     {
@@ -114,7 +126,9 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/WETH.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 1189.38
+        "LF/V1": 1189.38,
+        "LF/V3": 1189.38,
+        "LF/V2": 1189.38
       }
     },
     {
@@ -124,7 +138,9 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/pnode.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.01467145
+        "LF/V1": 0.01467145,
+        "LF/V3": 0.01467145,
+        "LF/V2": 0.01467145
       }
     },
     {
