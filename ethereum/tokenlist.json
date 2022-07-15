@@ -13,7 +13,8 @@
         "YF/V38": 0.049,
         "SF/V39": 0.01418,
         "LF/V1": 0.00217,
-        "LF/V3": 0.00263
+        "LF/V3": 0.00263,
+        "LF/V2": 0.00263
       }
     },
     {
@@ -25,6 +26,7 @@
       "pricePoints": {
         "YF/V38": 0.1,
         "LF/V3": 0.00586
+        "LF/V2": 0.00586
       },
       "tags": []
     },
@@ -67,7 +69,8 @@
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 0.05261,
-        "LF/V3": 0.009650
+        "LF/V3": 0.009650,
+        "LF/V2": 0.009650
       }
     },
     {
@@ -77,7 +80,9 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/hash.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.00416226
+        "LF/V1": 0.00416226,
+        "LF/V3": 0.00416226,
+        "LF/V2": 0.00416226
       }
     },
     {
