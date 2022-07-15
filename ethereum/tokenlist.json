@@ -103,7 +103,8 @@
       "decimals": 6,
       "pricePoints": {
         "LF/V1": 0.99,
-        "LF/V3": 0.99
+        "LF/V3": 0.99,
+        "LF/V2": 0.99
       }
     },
     {
@@ -114,7 +115,8 @@
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 0.00389581,
-        "LF/V3": 0.00389581
+        "LF/V3": 0.00389581,
+        "LF/V2": 0.00389581
       }
     },
     {
@@ -125,7 +127,8 @@
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 1189.38,
-        "LF/V3": 1189.38
+        "LF/V3": 1189.38,
+        "LF/V2": 1189.38
       }
     },
     {
@@ -136,7 +139,8 @@
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 0.01467145,
-        "LF/V3": 0.01467145
+        "LF/V3": 0.01467145,
+        "LF/V2": 0.01467145
       }
     },
     {
@@ -167,7 +171,8 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/route.png",
       "decimals": 18,
       "pricePoints": {
-       "LF/V3": 2.66
+        "LF/V3": 2.66,
+        "LF/V2": 2.66
       },
       "chainId": 4
     }
