@@ -97,7 +97,8 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/usdt.png",
       "decimals": 6,
       "pricePoints": {
-        "LF/V1": 0.99
+        "LF/V1": 0.99,
+        "LF/V3": 0.99
       }
     },
     {
@@ -107,7 +108,8 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/skyrim.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.00389581
+        "LF/V1": 0.00389581,
+        "LF/V3": 0.00389581
       }
     },
     {
@@ -117,7 +119,8 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/WETH.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 1189.38
+        "LF/V1": 1189.38,
+        "LF/V3": 1189.38
       }
     },
     {
@@ -127,7 +130,8 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/pnode.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.01467145
+        "LF/V1": 0.01467145,
+        "LF/V3": 0.01467145
       }
     },
     {
