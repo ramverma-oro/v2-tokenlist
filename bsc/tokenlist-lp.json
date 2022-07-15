@@ -6,27 +6,14 @@
     {
       "lpToken": "0x6b19a3c14c32e6d6e8aa993f75c887b0222388f5",
       "pricePoints": {
-        "LF/V1": 1.49
+        "LF/V1": 1.49,
+        "BSC/LF4": 1.64
       },
       "decimals": 18,
       "dex": "PancakeSwap",
       "tokens": [
         "0x0A356f512f6fCE740111ee04Ab1699017a908680",
         "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c"
-      ],
-      "dexAddLiquidityPage": "https://pancakeswap.finance/add/0x0A356f512f6fCE740111ee04Ab1699017a908680/BNB",
-      "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
-    },
-    {
-      "lpToken": "0x6B19a3C14C32E6d6e8AA993F75C887b0222388f5",
-      "pricePoints": {
-        "BSC/LF4": 1.64
-      },
-      "decimals": 18,
-      "dex": "PancakeSwap",
-      "tokens": [
-        "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-        "0x0A356f512f6fCE740111ee04Ab1699017a908680"
       ],
       "dexAddLiquidityPage": "https://pancakeswap.finance/add/0x0A356f512f6fCE740111ee04Ab1699017a908680/BNB",
       "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
@@ -39,8 +26,8 @@
       "decimals": 18,
       "dex": "PancakeSwap",
       "tokens": [
-        "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-        "0x4b4135a99775368f349b6f904808b648a9948393"
+        "0x4b4135a99775368f349b6f904808b648a9948393",
+        "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
       ],
       "dexAddLiquidityPage": "https://pancakeswap.finance/add/0x0A356f512f6fCE740111ee04Ab1699017a908680/BNB",
       "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
@@ -53,8 +40,8 @@
       "decimals": 18,
       "dex": "PancakeSwap",
       "tokens": [
-        "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
-        "0xdBB66Eb9f4D737B49aE5CD4De25E6C8da8B034f9"
+        "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+        "0xdbb66eb9f4d737b49ae5cd4de25e6c8da8b034f9"
       ],
       "dexAddLiquidityPage": "https://pancakeswap.finance/add/0x0A356f512f6fCE740111ee04Ab1699017a908680/BNB",
       "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
