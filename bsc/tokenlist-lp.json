@@ -1,0 +1,22 @@
+{
+    "maintainer": "Unifarm",
+    "ipfs": "ipfs://",
+    "networkId": 97,
+    "tokenlist": [
+      {
+        "lpToken": "0xdac20a461fc46d2644862de1c2781ef3d1a758a2",
+        "pricePoints": {
+         "YF/BSC": 638876.5649999399
+        },
+        "decimals": 18,
+        "dex": "Uniswap V2",
+        "tokens": [
+          "0xf7745D2e7FdE51c542568F718457d983F761e8C3",
+          "0xd45ae782ba3879b0ba9e6773335a67f5d99f734e"
+        ],
+        "dexAddLiquidityPage": "",
+        "dexSwapPage": ""
+      }
+    ]
+}
+  
