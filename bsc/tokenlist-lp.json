@@ -7,7 +7,8 @@
       "lpToken": "0x6b19a3c14c32e6d6e8aa993f75c887b0222388f5",
       "pricePoints": {
         "LF/V1": 1.49,
-        "BSC/LF4": 1.64
+        "BSC/LF4": 1.64,
+        "BSC/LF5": 1.64
       },
       "decimals": 18,
       "dex": "PancakeSwap",
@@ -21,7 +22,8 @@
     {
       "lpToken": "0x694f0b5526560e00645b85B1F9203bdD65611503",
       "pricePoints": {
-        "BSC/LF4": 0.95
+        "BSC/LF4": 0.95,
+        "BSC/LF5": 0.95
       },
       "decimals": 18,
       "dex": "PancakeSwap",
@@ -35,7 +37,8 @@
     {
       "lpToken": "0x9c5d7808057ef4ab3ba02f9499401c64676d7421",
       "pricePoints": {
-        "BSC/LF4": 0.78
+        "BSC/LF4": 0.78,
+        "BSC/LF5": 0.78
       },
       "decimals": 18,
       "dex": "PancakeSwap",

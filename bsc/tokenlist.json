@@ -12,7 +12,8 @@
       "pricePoints": {
         "LF/V1": 0.00217,
         "YF/V4": 0.002,
-        "BSC/LF4": 0.0028
+        "BSC/LF4": 0.0028,
+        "BSC/LF5": 0.0028
       },
       "chainId": 56
     },
@@ -95,7 +96,8 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/canu.png",
       "decimals": 18,
       "pricePoints": {
-        "BSC/LF4": 0.00052
+        "BSC/LF4": 0.00052,
+        "BSC/LF5": 0.00052
       },
       "chainId": 56
     },
@@ -106,7 +108,8 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/dvdx.png",
       "decimals": 18,
       "pricePoints": {
-        "BSC/LF4": 0.00072
+        "BSC/LF4": 0.00072,
+        "BSC/LF5": 0.00072
       },
       "chainId": 56
     }
