@@ -200,6 +200,28 @@
        "YF/V38": 1.73
       },
       "chainId": 4
+    },
+    {
+      "name": "ZigCoin",
+      "symbol": "ZIG",
+      "address": "0x8fc7561125A0474dD0c9379dba29A780C3b3C3DE",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/zig.png",
+      "decimals": 18,
+      "pricePoints": {
+       "TF/V11": 0.01
+      },
+      "chainId": 4
+    },
+    {
+      "name": "CubToken",
+      "symbol": "CUBT",
+      "address": "0xd1a040a5d4E93C2A80Ed8ffE8A4222d2Cb26C72E",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cub.png",
+      "decimals": 18,
+      "pricePoints": {
+       "TF/V11": 0.000000083
+      },
+      "chainId": 4
     }
   ]
 }
