@@ -202,6 +202,28 @@
       "chainId": 4
     },
     {
+      "name": "Playcent",
+      "symbol": "PCNT",
+      "address": "0xd13ed2055756a27c400bccd25aca6abf7c05c19f",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/playcent.png",
+      "decimals": 18,
+      "pricePoints": {
+       "TF/V11": 0.014
+      },
+      "chainId": 4
+    },
+    {
+      "name": "Singularity DAO",
+      "symbol": "SDAO",
+      "address": "0xD758484E0c5A4D2F8d793FAee39ce8e63Efab76C",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/singularitydao.png",
+      "decimals": 18,
+      "pricePoints": {
+       "TF/V11": 0.39
+      },
+      "chainId": 4
+    },
+    {
       "name": "ZigCoin",
       "symbol": "ZIG",
       "address": "0x8fc7561125A0474dD0c9379dba29A780C3b3C3DE",
