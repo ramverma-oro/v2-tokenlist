@@ -208,7 +208,7 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/playcent.png",
       "decimals": 18,
       "pricePoints": {
-       "TF/V11": 0.014
+       "TF1-YF1": 0.014
       },
       "chainId": 4
     },
@@ -219,7 +219,7 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/singularitydao.png",
       "decimals": 18,
       "pricePoints": {
-       "TF/V11": 0.39
+       "TF1-YF1": 0.39
       },
       "chainId": 4
     },
@@ -230,7 +230,7 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/zig.png",
       "decimals": 18,
       "pricePoints": {
-       "TF/V11": 0.01
+       "TF1-YF1": 0.01
       },
       "chainId": 4
     },
@@ -241,7 +241,7 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cub.png",
       "decimals": 18,
       "pricePoints": {
-       "TF/V11": 0.000000083
+       "TF1-YF1": 0.000000083
       },
       "chainId": 4
     }
