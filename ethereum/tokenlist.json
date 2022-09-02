@@ -22,7 +22,8 @@
       "decimals": 18,
       "pricePoints": {
         "YF/V2": 0.002,
-        "LF/V2": 0.002
+        "LF/V2": 0.002,
+        "TF1-YF1": 0.0024
       },
       "chainId": 1
     },
@@ -90,6 +91,39 @@
       "decimals": 18,
       "pricePoints": {
         "LF/V2": 5.1
+      },
+      "chainId": 1
+    },
+    {
+      "name": "Playcent",
+      "symbol": "PCNT",
+      "address": "0x657B83A0336561C8f64389a6f5aDE675C04b0C3b",
+      "icon": "https://oropocket.com/unifarm/assets/icons/playcent.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1-YF1": 0.014
+      },
+      "chainId": 1
+    },
+    {
+      "name": "Zigcoin",
+      "symbol": "ZIG",
+      "address": "0xb2617246d0c6c0087f18703d576831899ca94f01",
+      "icon": "https://oropocket.com/unifarm/assets/icons/zig.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1-YF1": 0.01
+      },
+      "chainId": 1
+    },
+    {
+      "name": "CubToken",
+      "symbol": "CUBT",
+      "address": "0xBf9e72eEb5adB8B558334c8672950B7a379D4266",
+      "icon": "https://oropocket.com/unifarm/assets/icons/CUBTOKEN.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1-YF1": 0.000000083
       },
       "chainId": 1
     }
