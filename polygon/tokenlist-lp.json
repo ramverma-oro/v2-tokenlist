@@ -16,6 +16,48 @@
       ],
       "dexAddLiquidityPage": "https://exchange.dfyn.network/#/add/0xA7305Ae84519fF8Be02484CdA45834C4E7D13Dd6/0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
       "dexSwapPage": "https://exchange.dfyn.network/#/swap?outputCurrency=0xa7305ae84519ff8be02484cda45834c4e7d13dd6&inputCurrency=0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174"
+    },
+    {
+      "lpToken": "0x79769f7c85ba923c28846bba814736da9cea521b",
+      "pricePoints": {
+        "TF1-LF1": 0.0222
+      },
+      "decimals": 18,
+      "dex": "Dfyn",
+      "tokens": [
+        "0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97",
+        "0xa7305ae84519ff8be02484cda45834c4e7d13dd6"
+      ],
+      "dexAddLiquidityPage": "https://exchange.dfyn.network/#/add/0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97/0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
+      "dexSwapPage": "https://exchange.dfyn.network/#/swap?outputCurrency=0xc168e40227e4ebd8c1cae80f7a55a4f0e6d66c97&inputCurrency=0xa7305ae84519ff8be02484cda45834c4e7d13dd6"
+    },
+    {
+      "lpToken": "0x83b54d7D13E7f9aB89AF93ea1D33113f129834cf",
+      "pricePoints": {
+        "TF1-LF1": 0.1913
+      },
+      "decimals": 18,
+      "dex": "Dfyn",
+      "tokens": [
+        "0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
+        "0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4"
+      ],
+      "dexAddLiquidityPage": "https://exchange.dfyn.network/#/add/0xa7305ae84519ff8be02484cda45834c4e7d13dd6/0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4",
+      "dexSwapPage": "https://exchange.dfyn.network/#/swap?outputCurrency=0xa7305ae84519ff8be02484cda45834c4e7d13dd6&inputCurrency=0x16eccfdbb4ee1a85a33f3a9b21175cd7ae753db4"
+    },
+    {
+      "lpToken": "0x5eBe528E2faAa118cfcEfdaf2A0A71dfF16602C2",
+      "pricePoints": {
+        "TF1-LF1": 0.0059
+      },
+      "decimals": 18,
+      "dex": "Dfyn",
+      "tokens": [
+        "0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
+        "0x40038c83e459937a988b669f1159cc78d8fdad68"
+      ],
+      "dexAddLiquidityPage": "https://exchange.dfyn.network/#/add/0xa7305ae84519ff8be02484cda45834c4e7d13dd6/0x40038c83e459937a988b669f1159cc78d8fdad68",
+      "dexSwapPage": "https://exchange.dfyn.network/#/swap?outputCurrency=0xa7305ae84519ff8be02484cda45834c4e7d13dd6&inputCurrency=0x40038c83e459937a988b669f1159cc78d8fdad68"
     }
   ]
 }

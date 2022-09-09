@@ -12,7 +12,8 @@
       "pricePoints": {
         "SF/V1": 0.00217,
         "LF/V3": 0.002,
-        "YF/V3": 0.002
+        "YF/V3": 0.002,
+        "TF1-LF1": 0.0025
       },
       "chainId": 137
     },
@@ -71,6 +72,39 @@
       "decimals": 18,
       "pricePoints": {
         "YF/V3": 6.65
+      },
+      "chainId": 137
+    },
+    {
+      "name": "Retro Finance",
+      "symbol": "pQBERT",
+      "address": "0x40038C83E459937A988b669f1159cC78d8fdad68",
+      "icon": "https://oropocket.com/unifarm/assets/icons/pqbert.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1-LF1": 0.0094
+      },
+      "chainId": 137
+    },
+    {
+      "name": "Router",
+      "symbol": "ROUTE",
+      "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+      "icon": "https://oropocket.com/unifarm/assets/icons/route.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1-LF1": 3.003
+      },
+      "chainId": 137
+    },
+    {
+      "name": "Dfyn",
+      "symbol": "DFYN",
+      "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+      "icon": "https://oropocket.com/unifarm/assets/icons/dfyn.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1-LF1": 0.035
       },
       "chainId": 137
     }
