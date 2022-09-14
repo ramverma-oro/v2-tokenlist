@@ -55,39 +55,39 @@
       "tags": []
     },
     {
-          "name": "BNB",
-          "symbol": "BNB",
-          "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-          "icon": "https://oropocket.com/unifarm/assets/icons/wbnb.png",
-          "decimals": 18,
-          "pricePoints": {
-          "LF/V1": 211.34,
-          "YF/V4": 233.43  
-          },
-          "chainId": 56
+      "name": "BNB",
+      "symbol": "BNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "icon": "https://oropocket.com/unifarm/assets/icons/wbnb.png",
+      "decimals": 18,
+      "pricePoints": {
+        "LF/V1": 211.34,
+        "YF/V4": 233.43
+      },
+      "chainId": 56
     },
     {
-          "name": "Shiba Inu",
-          "symbol": "SHIB",
-          "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
-          "icon": "https://oropocket.com/unifarm/assets/icons/shib.png",
-          "decimals": 18,
-          "pricePoints": {
-          "LF/V1": 0.00001026
-          },
-          "chainId": 56
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
+      "icon": "https://oropocket.com/unifarm/assets/icons/shib.png",
+      "decimals": 18,
+      "pricePoints": {
+        "LF/V1": 0.00001026
+      },
+      "chainId": 56
     },
     {
-          "name": "STEPN",
-          "symbol": "GMT",
-          "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
-          "icon": "https://oropocket.com/unifarm/assets/icons/gmt.png",
-          "decimals": 8,
-          "pricePoints": {
-          "LF/V1": 0.00001026,
-          "YF/V4": 0.91  
-          },
-          "chainId": 56
+      "name": "STEPN",
+      "symbol": "GMT",
+      "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
+      "icon": "https://oropocket.com/unifarm/assets/icons/gmt.png",
+      "decimals": 8,
+      "pricePoints": {
+        "LF/V1": 0.00001026,
+        "YF/V4": 0.91
+      },
+      "chainId": 56
     },
     {
       "name": "Canumo",
@@ -110,6 +110,28 @@
       "pricePoints": {
         "BSC/LF4": 0.00072,
         "BSC/LF5": 0.00072
+      },
+      "chainId": 56
+    },
+    {
+      "name": "Gains",
+      "symbol": "GAINS",
+      "address": "0xD9eA58350Bf120E2169A35FA1aFC31975b07de01",
+      "icon": "https://oropocket.com/unifarm/assets/icons/gains.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF/V13": 0.135
+      },
+      "chainId": 56
+    },
+    {
+      "name": "GamyFi",
+      "symbol": "GFX",
+      "address": "0x65ad6A2288b2Dd23E466226397c8F5D1794e58fC",
+      "icon": "https://oropocket.com/unifarm/assets/icons/gamyfi.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF/V13": 0.0588
       },
       "chainId": 56
     }
