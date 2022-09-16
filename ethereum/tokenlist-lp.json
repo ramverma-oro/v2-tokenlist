@@ -28,8 +28,8 @@
         "0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
         "0x657b83a0336561c8f64389a6f5ade675c04b0c3b"
       ],
-      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x657b83a0336561c8f64389a6f5ade675c04b0c3b/ETH?chain=mainnet",
-      "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
+      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/0x657B83A0336561C8f64389a6f5aDE675C04b0C3b",
+      "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x657b83a0336561c8f64389a6f5ade675c04b0c3b&inputCurrency=ETH&chain=mainnet"
     },
     {
       "lpToken": "0xd24edc2A50c3502a72ac3FC39A7e5c5739924086",
@@ -42,7 +42,7 @@
         "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
         "0x40986a85b4cfcdb054a6cbfb1210194fee51af88"
       ],
-      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x993864e43caa7f7f12953ad6feb1d1ca635b875f/ETH?chain=mainnet",
+      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
       "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
     },
     {
@@ -56,7 +56,7 @@
         "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
         "0x40986a85b4cfcdb054a6cbfb1210194fee51af88"
       ],
-      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/ETH?chain=mainnet",
+      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/0xC8807f0f5BA3fa45FfBdc66928d71c5289249014",
       "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
     },
     {
@@ -70,7 +70,7 @@
         "0xef53462838000184f35f7d991452e5f25110b207",
         "0x40986a85b4cfcdb054a6cbfb1210194fee51af88"
       ],
-      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/ETH?chain=mainnet",
+      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0xC9Eca6EC43bdA5F2667e27F27430290Ac8e85b2e/ETH?chain=mainnet",
       "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
     }
   ]
