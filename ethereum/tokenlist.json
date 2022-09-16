@@ -101,7 +101,8 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/playcent.png",
       "decimals": 18,
       "pricePoints": {
-        "TF1-YF1": 0.014
+        "TF1-YF1": 0.014,
+        "TF1-LF2": 0.014
       },
       "chainId": 1
     },
@@ -124,6 +125,39 @@
       "decimals": 18,
       "pricePoints": {
         "TF1-YF1": 0.000000083
+      },
+      "chainId": 1
+    },
+    {
+      "name": "Singularity DAO",
+      "symbol": "SDAO",
+      "address": "0x993864E43Caa7F7F12953AD6fEb1d1Ca635B875F",
+      "icon": "https://oropocket.com/unifarm/assets/icons/singularitydao.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1-LF2": 0.39
+      },
+      "chainId": 1
+    },
+    {
+      "name": "ISPO Link",
+      "symbol": "ISP",
+      "address": "0xC8807f0f5BA3fa45FfBdc66928d71c5289249014",
+      "icon": "https://oropocket.com/unifarm/assets/icons/Ispolink.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1-LF2": 0.0007
+      },
+      "chainId": 1
+    },
+    {
+      "name": "Knit Finance",
+      "symbol": "KFT",
+      "address": "0xEF53462838000184F35f7D991452e5f25110b207",
+      "icon": "https://oropocket.com/unifarm/assets/icons/Knit.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1-LF2": 0.005
       },
       "chainId": 1
     }

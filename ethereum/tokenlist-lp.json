@@ -16,6 +16,62 @@
       ],
       "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/ETH?chain=mainnet",
       "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
+    },
+    {
+      "lpToken": "0xbf5C23fAa0BAD0C15667361C1A303d1cd1Df7C41",
+      "pricePoints": {
+        "TF1-LF2": 0.0106
+      },
+      "decimals": 18,
+      "dex": "Uniswap",
+      "tokens": [
+        "0x40986a85b4cfcdb054a6cbfb1210194fee51af88",
+        "0x657b83a0336561c8f64389a6f5ade675c04b0c3b"
+      ],
+      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x657b83a0336561c8f64389a6f5ade675c04b0c3b/ETH?chain=mainnet",
+      "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
+    },
+    {
+      "lpToken": "0xd24edc2A50c3502a72ac3FC39A7e5c5739924086",
+      "pricePoints": {
+        "TF1-LF2": 0.0566
+      },
+      "decimals": 18,
+      "dex": "Uniswap",
+      "tokens": [
+        "0x993864e43caa7f7f12953ad6feb1d1ca635b875f",
+        "0x40986a85b4cfcdb054a6cbfb1210194fee51af88"
+      ],
+      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x993864e43caa7f7f12953ad6feb1d1ca635b875f/ETH?chain=mainnet",
+      "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
+    },
+    {
+      "lpToken": "0xE0A33442FFCfF5093Ade0e7F48e9fA0B6497B280",
+      "pricePoints": {
+        "TF1-LF2": 0.0025
+      },
+      "decimals": 18,
+      "dex": "Uniswap",
+      "tokens": [
+        "0xc8807f0f5ba3fa45ffbdc66928d71c5289249014",
+        "0x40986a85b4cfcdb054a6cbfb1210194fee51af88"
+      ],
+      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/ETH?chain=mainnet",
+      "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
+    },
+    {
+      "lpToken": "0xC9Eca6EC43bdA5F2667e27F27430290Ac8e85b2e",
+      "pricePoints": {
+        "TF1-LF2": 0.0066
+      },
+      "decimals": 18,
+      "dex": "Uniswap",
+      "tokens": [
+        "0xef53462838000184f35f7d991452e5f25110b207",
+        "0x40986a85b4cfcdb054a6cbfb1210194fee51af88"
+      ],
+      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/ETH?chain=mainnet",
+      "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
     }
   ]
 }
