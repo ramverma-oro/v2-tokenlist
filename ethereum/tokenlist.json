@@ -164,7 +164,7 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ntvrk.png",
       "decimals": 18,
       "pricePoints": {
-       "YF/V38": 0.3512
+        "YF/V38": 0.3512
       },
       "chainId": 4
     },
@@ -175,7 +175,7 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/route.png",
       "decimals": 18,
       "pricePoints": {
-       "YF/V38": 1.73
+        "YF/V38": 1.73
       },
       "chainId": 4
     },
@@ -197,7 +197,7 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/nord.png",
       "decimals": 18,
       "pricePoints": {
-       "YF/V38": 1.73
+        "YF/V38": 1.73
       },
       "chainId": 4
     },
@@ -208,7 +208,7 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/playcent.png",
       "decimals": 18,
       "pricePoints": {
-       "TF1-YF1": 0.014
+        "TF1-YF1": 0.014
       },
       "chainId": 4
     },
@@ -219,7 +219,8 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/singularitydao.png",
       "decimals": 18,
       "pricePoints": {
-       "TF1-YF1": 0.39
+        "TF1-YF1": 0.39,
+        "TF/V15": 0.39
       },
       "chainId": 4
     },
@@ -230,7 +231,7 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/zig.png",
       "decimals": 18,
       "pricePoints": {
-       "TF1-YF1": 0.01
+        "TF1-YF1": 0.01
       },
       "chainId": 4
     },
@@ -241,7 +242,40 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/cub.png",
       "decimals": 18,
       "pricePoints": {
-       "TF1-YF1": 0.000000083
+        "TF1-YF1": 0.000000083
+      },
+      "chainId": 4
+    },
+    {
+      "name": "Ispolink",
+      "symbol": "ISP",
+      "address": "0x9D19294ec8E4742fa08344296146E2F480ceD946",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/isoplonic.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF/V15": 0.0007
+      },
+      "chainId": 4
+    },
+    {
+      "name": "Changex",
+      "symbol": "CHANGE",
+      "address": "0xe8C8a3f1272C6685c2E0e9eEC2FAb238855366d8",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/change.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF/V15": 0.04
+      },
+      "chainId": 4
+    },
+    {
+      "name": "Knit",
+      "symbol": "KFT",
+      "address": "0xA30f595809acdf021b2D61B9d8C15754529a73FE",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/kft.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF/V15": 0.005
       },
       "chainId": 4
     }
