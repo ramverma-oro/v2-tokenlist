@@ -136,7 +136,8 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/singularitydao.png",
       "decimals": 18,
       "pricePoints": {
-        "TF1-LF2": 0.39
+        "TF1-LF2": 0.39,
+        "TF-YF3": 0.39
       },
       "chainId": 1
     },
@@ -147,7 +148,8 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/Ispolink.png",
       "decimals": 18,
       "pricePoints": {
-        "TF1-LF2": 0.0007
+        "TF1-LF2": 0.0007,
+        "TF-YF3": 0.0007
       },
       "chainId": 1
     },
@@ -158,7 +160,19 @@
       "icon": "https://oropocket.com/unifarm/assets/icons/Knit.png",
       "decimals": 18,
       "pricePoints": {
-        "TF1-LF2": 0.005
+        "TF1-LF2": 0.005,
+        "TF-YF3": 0.005
+      },
+      "chainId": 1
+    },
+    {
+      "name": "Changex",
+      "symbol": "CHANGE",
+      "address": "0x7051faED0775f664a0286Af4F75ef5ed74e02754",
+      "icon": "https://oropocket.com/unifarm/assets/icons/change.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF-YF3": 0.04
       },
       "chainId": 1
     }
