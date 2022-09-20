@@ -17,7 +17,9 @@
         "LF/V2": 0.00263,
         "BSC/LF4": 0.00263,
         "YF/VT": 0.003206,
-        "YF/VT1": 0.003206
+        "YF/VT1": 0.003206,
+        "TF/V13": 0.00227
+
       }
     },
     {
@@ -154,7 +156,8 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist-for-lp/master/.github/assets/icons/gfx.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.065911
+        "LF/V1": 0.065911,
+        "TF/V13": 0.0588
       }
     },
     {
@@ -276,6 +279,31 @@
       "decimals": 18,
       "pricePoints": {
         "TF/V15": 0.005
+      },
+      "chainId": 4
+    },
+    {
+      "name": "Gains",
+      "symbol": "GAINS",
+      "address": "0xcd49901EE9C6f1E28b1619361a68FE33FF79CEA6",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gains.png",
+      "decimals": 18,
+      "pricePoints": {
+       "TF1-YF1": 0.135,
+       "TF/V13": 0.135
+       
+      },
+      "chainId": 4
+    },
+    {
+      "name": "Cannumo",
+      "symbol": "CANU",
+      "address": "0x4d90F7C5b39887898cf0eFe6801895E001eAAf1A",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/canu.png",
+      "decimals": 18,
+      "pricePoints": {
+       "TF1-YF1": 0.000326,
+       "TF/V13": 0.000326
       },
       "chainId": 4
     }
