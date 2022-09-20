@@ -1,29 +1,27 @@
 {
-    "maintainer": "Unifarm Protocol",
-    "ipfs": "ipfs://",
-    "networkId": 97,
-    "tokens": [
-      {
-        "name": "Unifarm Token",
-        "symbol": "UFARM",
-        "address": "0x46fAC1d1e15311AF54002a1EFF31745602774e6B",
-        "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
-        "decimals": 18,
-        "pricePoints": {
-          "YF/BSC": 0.003095
-        }
-      },
-      {
-        "name": "Cannumo",
-        "symbol": "CANU",
-        "address": "0xde69bdC14A3379e4242E0d40707872Ddfea8a75D",
-        "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/canu.png",
-        "decimals": 18,
-        "pricePoints": {
-            "YF/BSC": 0.00047
-        },
-        "chainId": 97
+  "maintainer": "Unifarm Protocol",
+  "ipfs": "ipfs://",
+  "networkId": 97,
+  "tokens": [
+    {
+      "name": "Unifarm Token",
+      "symbol": "UFARM",
+      "address": "0x46fAC1d1e15311AF54002a1EFF31745602774e6B",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
+      "decimals": 18,
+      "pricePoints": {
+        "YF/BSC": 0.003095
       }
-    ]
+    },
+    {
+      "name": "Cannumo",
+      "symbol": "CANU",
+      "address": "0xde69bdC14A3379e4242E0d40707872Ddfea8a75D",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/canu.png",
+      "decimals": 18,
+      "pricePoints": {
+        "YF/BSC": 0.00047
+      }
+    }
+  ]
 }
-  
