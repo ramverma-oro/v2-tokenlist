@@ -1,0 +1,17 @@
+{
+  "maintainer": "Unifarm Protocol",
+  "ipfs": "ipfs://",
+  "networkId": 80001,
+  "tokens": [
+    {
+      "name": "Unifarm Token",
+      "symbol": "UFARM",
+      "address": "0xa1C5949Ec64b4d81B2BE69356BeAfe529F774FE5",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1-M": 0.003095
+      }
+    }
+  ]
+}
