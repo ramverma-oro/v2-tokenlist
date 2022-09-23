@@ -8,7 +8,8 @@
       "pricePoints": {
         "LF/V1": 1.49,
         "BSC/LF4": 1.64,
-        "BSC/LF5": 1.64
+        "BSC/LF5": 1.64,
+        "TF1-LF3": 1.64
       },
       "decimals": 18,
       "dex": "PancakeSwap",
@@ -38,15 +39,44 @@
       "lpToken": "0x9c5d7808057ef4ab3ba02f9499401c64676d7421",
       "pricePoints": {
         "BSC/LF4": 0.78,
-        "BSC/LF5": 0.78
+        "BSC/LF5": 0.78,
+        "TF1-LF3": 0.577
       },
       "decimals": 18,
       "dex": "PancakeSwap",
       "tokens": [
-        "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
-        "0xdbb66eb9f4d737b49ae5cd4de25e6c8da8b034f9"
+        "0xdbb66eb9f4d737b49ae5cd4de25e6c8da8b034f9",
+        "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
       ],
       "dexAddLiquidityPage": "https://pancakeswap.finance/add/0xdbb66eb9f4d737b49ae5cd4de25e6c8da8b034f9/BNB",
+      "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
+    },
+    {
+      "lpToken": "0x8Bfc60178eDB679154f45e25CbE5E436149DfC39",
+      "pricePoints": {
+        "TF1-LF3": 1.64
+      },
+      "decimals": 18,
+      "dex": "PancakeSwap",
+      "tokens": [
+        "0xd9ea58350bf120e2169a35fa1afc31975b07de01",
+        "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      ],
+      "dexAddLiquidityPage": "https://pancakeswap.finance/add/0xd9ea58350bf120e2169a35fa1afc31975b07de01/BNB",
+      "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
+    },
+    {
+      "lpToken": "0x0469B8a91F80d9efc4930Db12580B1a2A6c531ED",
+      "pricePoints": {
+        "TF1-LF3": 11.51
+      },
+      "decimals": 18,
+      "dex": "PancakeSwap",
+      "tokens": [
+        "0x65ad6a2288b2dd23e466226397c8f5d1794e58fc",
+        "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
+      ],
+      "dexAddLiquidityPage": "https://pancakeswap.finance/add/0x65ad6a2288b2dd23e466226397c8f5d1794e58fc/BNB",
       "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
     }
   ]
