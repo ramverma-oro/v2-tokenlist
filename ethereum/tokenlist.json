@@ -18,8 +18,8 @@
         "BSC/LF4": 0.00263,
         "YF/VT": 0.003206,
         "YF/VT1": 0.003206,
-        "TF/V13": 0.00227
-
+        "TF/V13": 0.00227,
+        "TF/V16": 0.0025
       }
     },
     {
@@ -157,7 +157,8 @@
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 0.065911,
-        "TF/V13": 0.0588
+        "TF/V13": 0.0588,
+        "TF/V16": 0.058
       }
     },
     {
@@ -289,9 +290,9 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/gains.png",
       "decimals": 18,
       "pricePoints": {
-       "TF1-YF1": 0.135,
-       "TF/V13": 0.135
-       
+        "TF1-YF1": 0.135,
+        "TF/V13": 0.135,
+        "TF/V16": 0.135
       },
       "chainId": 4
     },
@@ -302,8 +303,20 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/canu.png",
       "decimals": 18,
       "pricePoints": {
-       "TF1-YF1": 0.000326,
-       "TF/V13": 0.000326
+        "TF1-YF1": 0.000326,
+        "TF/V13": 0.000326,
+        "TF/V16": 0.00032
+      },
+      "chainId": 4
+    },
+    {
+      "name": "BNB",
+      "symbol": "BNB",
+      "address": "0x3211bf8fe769b4969642c065b0c40e14a4eaaaae",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/bnb.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF/V16": 320
       },
       "chainId": 4
     }
