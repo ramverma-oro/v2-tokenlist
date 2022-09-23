@@ -7,7 +7,7 @@
       "name": "Unifarm Token",
       "symbol": "UFARM",
       "address": "0xa7305ae84519ff8be02484cda45834c4e7d13dd6",
-      "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/ufarm.png",
       "decimals": 18,
       "pricePoints": {
         "SF/V1": 0.00217,
@@ -21,7 +21,7 @@
       "name": "Polygon",
       "symbol": "MATIC",
       "address": "0x0d500B1d8E8eF31E21C99d1Db9A6444d3ADf1270",
-      "icon": "https://oropocket.com/unifarm/assets/icons/matic.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/matic.png",
       "decimals": 18,
       "pricePoints": {
         "LF/V3": 0.51,
@@ -33,7 +33,7 @@
       "name": "Bitcoin",
       "symbol": "WBTC",
       "address": "0x1BFD67037B42Cf73acF2047067bd4F2C47D9BfD6",
-      "icon": "https://oropocket.com/unifarm/assets/icons/wbtc.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/wbtc.png",
       "decimals": 8,
       "pricePoints": {
         "LF/V3": 20346,
@@ -45,7 +45,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
-      "icon": "https://oropocket.com/unifarm/assets/icons/usdc.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/usdc.png",
       "decimals": 6,
       "pricePoints": {
         "LF/V3": 1,
@@ -57,7 +57,7 @@
       "name": "SandBox",
       "symbol": "SAND",
       "address": "0xBbba073C31bF03b8ACf7c28EF0738DeCF3695683",
-      "icon": "https://oropocket.com/unifarm/assets/icons/sand.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/sand.png",
       "decimals": 18,
       "pricePoints": {
         "LF/V3": 1.1
@@ -68,7 +68,7 @@
       "name": "Chainlink",
       "symbol": "LINK",
       "address": "0x53E0bca35eC356BD5ddDFebbD1Fc0fD03FaBad39",
-      "icon": "https://oropocket.com/unifarm/assets/icons/link.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/link.png",
       "decimals": 18,
       "pricePoints": {
         "YF/V3": 6.65
@@ -79,7 +79,7 @@
       "name": "Retro Finance",
       "symbol": "pQBERT",
       "address": "0x40038C83E459937A988b669f1159cC78d8fdad68",
-      "icon": "https://oropocket.com/unifarm/assets/icons/pqbert.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/pqbert.png",
       "decimals": 18,
       "pricePoints": {
         "TF1-LF1": 0.0094
@@ -90,7 +90,7 @@
       "name": "Router",
       "symbol": "ROUTE",
       "address": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
-      "icon": "https://oropocket.com/unifarm/assets/icons/route.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/route.png",
       "decimals": 18,
       "pricePoints": {
         "TF1-LF1": 3.003
@@ -101,7 +101,7 @@
       "name": "Dfyn",
       "symbol": "DFYN",
       "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
-      "icon": "https://oropocket.com/unifarm/assets/icons/dfyn.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/dfyn.png",
       "decimals": 18,
       "pricePoints": {
         "TF1-LF1": 0.035

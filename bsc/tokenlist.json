@@ -7,7 +7,7 @@
       "name": "Unifarm Token",
       "symbol": "UFARM",
       "address": "0x0A356f512f6fCE740111ee04Ab1699017a908680",
-      "icon": "https://oropocket.com/unifarm/assets/icons/ufarm.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/ufarm.png",
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 0.00217,
@@ -23,7 +23,7 @@
       "name": "Binance-Peg BUSD Token",
       "symbol": "BUSD",
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-      "icon": "https://oropocket.com/unifarm/assets/icons/Layer 56.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/Layer56.png",
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 1,
@@ -60,7 +60,7 @@
       "name": "BNB",
       "symbol": "BNB",
       "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "icon": "https://oropocket.com/unifarm/assets/icons/wbnb.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/wbnb.png",
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 211.34,
@@ -72,7 +72,7 @@
       "name": "Shiba Inu",
       "symbol": "SHIB",
       "address": "0x2859e4544C4bB03966803b044A93563Bd2D0DD4D",
-      "icon": "https://oropocket.com/unifarm/assets/icons/shib.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/shib.png",
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 0.00001026
@@ -83,7 +83,7 @@
       "name": "STEPN",
       "symbol": "GMT",
       "address": "0x3019BF2a2eF8040C242C9a4c5c4BD4C81678b2A1",
-      "icon": "https://oropocket.com/unifarm/assets/icons/gmt.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/gmt.png",
       "decimals": 8,
       "pricePoints": {
         "LF/V1": 0.00001026,
@@ -95,7 +95,7 @@
       "name": "Canumo",
       "symbol": "CANU",
       "address": "0xdBB66Eb9f4D737B49aE5CD4De25E6C8da8B034f9",
-      "icon": "https://oropocket.com/unifarm/assets/icons/canu.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/canu.png",
       "decimals": 18,
       "pricePoints": {
         "BSC/LF4": 0.00052,
@@ -109,7 +109,7 @@
       "name": "Derived",
       "symbol": "DVDX",
       "address": "0x4b4135a99775368f349b6f904808b648a9948393",
-      "icon": "https://oropocket.com/unifarm/assets/icons/dvdx.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/dvdx.png",
       "decimals": 18,
       "pricePoints": {
         "BSC/LF4": 0.00072,
@@ -121,7 +121,7 @@
       "name": "Gains",
       "symbol": "GAINS",
       "address": "0xD9eA58350Bf120E2169A35FA1aFC31975b07de01",
-      "icon": "https://oropocket.com/unifarm/assets/icons/gains.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/gains.png",
       "decimals": 18,
       "pricePoints": {
         "TF1-YF2": 0.135,
@@ -133,7 +133,7 @@
       "name": "GamyFi",
       "symbol": "GFX",
       "address": "0x65ad6A2288b2Dd23E466226397c8F5D1794e58fC",
-      "icon": "https://oropocket.com/unifarm/assets/icons/gamyfi.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/gamyfi.png",
       "decimals": 18,
       "pricePoints": {
         "TF1-YF2": 0.0588,
