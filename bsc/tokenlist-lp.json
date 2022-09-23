@@ -54,7 +54,7 @@
     {
       "lpToken": "0x8Bfc60178eDB679154f45e25CbE5E436149DfC39",
       "pricePoints": {
-        "TF1-LF3": 1.64
+        "TF1-LF3": 13.7
       },
       "decimals": 18,
       "dex": "PancakeSwap",
