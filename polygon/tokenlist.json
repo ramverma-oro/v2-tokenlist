@@ -10,7 +10,38 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/ufarm.png",
       "decimals": 18,
       "pricePoints": {
-        "TF1-M": 0.003095
+        "TF1-M": 0.003095,
+        "TF1/V17": 0.0025
+      }
+    },
+    {
+      "name": "Router",
+      "symbol": "ROUTE",
+      "address": "0xEadF78699d96b8b9D1Dc737af55903f32bAbcA0B",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/route.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1/V17": 3
+      }
+    },
+    {
+      "name": "Dfyn",
+      "symbol": "DFYN",
+      "address": "0x6549Fc1bf4eFFb6C48E55f8b4a3bb659FFC1C26a",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/dfyn.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1/V17": 0.035
+      }
+    },
+    {
+      "name": "Retro Finance",
+      "symbol": "pQBERT",
+      "address": "0x054a2526FDD6262167bAd558184C1549FACf3de1",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/pqbert.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1/V17": 0.0094
       }
     }
   ]
