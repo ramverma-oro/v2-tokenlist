@@ -13,7 +13,8 @@
         "SF/V1": 0.00217,
         "LF/V3": 0.002,
         "YF/V3": 0.002,
-        "TF1-LF1": 0.0025
+        "TF1-LF1": 0.0025,
+        "TF1-YF4": 0.0025
       },
       "chainId": 137
     },
@@ -82,7 +83,8 @@
       "icon": "https://my.oropocket.com/unifarm/assets/icons/pqbert.png",
       "decimals": 18,
       "pricePoints": {
-        "TF1-LF1": 0.0094
+        "TF1-LF1": 0.0094,
+        "TF1-YF4": 0.0094
       },
       "chainId": 137
     },
@@ -93,7 +95,8 @@
       "icon": "https://my.oropocket.com/unifarm/assets/icons/route.png",
       "decimals": 18,
       "pricePoints": {
-        "TF1-LF1": 3.003
+        "TF1-LF1": 3.003,
+        "TF1-YF4": 3
       },
       "chainId": 137
     },
@@ -104,7 +107,8 @@
       "icon": "https://my.oropocket.com/unifarm/assets/icons/dfyn.png",
       "decimals": 18,
       "pricePoints": {
-        "TF1-LF1": 0.035
+        "TF1-LF1": 0.035,
+        "TF1-YF4": 0.035
       },
       "chainId": 137
     }
