@@ -121,6 +121,62 @@
       ],
       "dexAddLiquidityPage": "",
       "dexSwapPage": ""
+    },
+    {
+      "lpToken": "0x2FEc1ECA10FDfa19e479359E913Ae247ac95fc91",
+      "pricePoints": {
+        "TF/V18": 369932.7275
+      },
+      "decimals": 18,
+      "dex": "Uniswap V2",
+      "tokens": [
+        "0xe8C8a3f1272C6685c2E0e9eEC2FAb238855366d8",
+        "0x9fEddE702f90FFBf211668752e3CE5c6b65EbcE5"
+      ],
+      "dexAddLiquidityPage": "",
+      "dexSwapPage": ""
+    },
+    {
+      "lpToken": "0x112427D4C8F08698787A5d40641f3410aaed3197",
+      "pricePoints": {
+        "TF/V18": 0.01716
+      },
+      "decimals": 18,
+      "dex": "Uniswap V2",
+      "tokens": [
+        "0xc778417e063141139fce010982780140aa0cd5ab",
+        "0xd1a040a5d4E93C2A80Ed8ffE8A4222d2Cb26C72E"
+      ],
+      "dexAddLiquidityPage": "",
+      "dexSwapPage": ""
+    },
+    {
+      "lpToken": "0x93686771c565e3822eac9389d49f0ea8445cb7cd",
+      "pricePoints": {
+        "TF/V18": 7.266
+      },
+      "decimals": 18,
+      "dex": "Uniswap V2",
+      "tokens": [
+        "0xc778417e063141139fce010982780140aa0cd5ab",
+        "0x8fc7561125A0474dD0c9379dba29A780C3b3C3DE"
+      ],
+      "dexAddLiquidityPage": "",
+      "dexSwapPage": ""
+    },
+    {
+      "lpToken": "0xE4be8827bf6c25599860658c9c398eFDA134A87A",
+      "pricePoints": {
+        "TF/V18": 4.569
+      },
+      "decimals": 18,
+      "dex": "Uniswap V2",
+      "tokens": [
+        "0xc778417e063141139fce010982780140aa0cd5ab",
+        "0xf7745D2e7FdE51c542568F718457d983F761e8C3"
+      ],
+      "dexAddLiquidityPage": "",
+      "dexSwapPage": ""
     }
   ]
 }
