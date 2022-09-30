@@ -6,7 +6,8 @@
     {
       "lpToken": "0x68688beb6f1eac7ea5041a367b0939b17931c17b",
       "pricePoints": {
-        "LF/V2": 3.84
+        "LF/V2": 3.84,
+        "TF1-LF4": 4.569
       },
       "decimals": 18,
       "dex": "Uniswap",
@@ -71,6 +72,34 @@
         "0x40986a85b4cfcdb054a6cbfb1210194fee51af88"
       ],
       "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0x40986a85B4cFCDb054A6CBFB1210194fee51af88/0xef53462838000184f35f7d991452e5f25110b207",
+      "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
+    },
+    {
+      "lpToken": "0x9247f812FF1037E15BE98F12f76f4B011AbF4d8B",
+      "pricePoints": {
+        "TF1-LF4": 369932.7275
+      },
+      "decimals": 18,
+      "dex": "Uniswap",
+      "tokens": [
+        "0x7051faED0775f664a0286Af4F75ef5ed74e02754",
+        "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48"
+      ],
+      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/0x7051faED0775f664a0286Af4F75ef5ed74e02754",
+      "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
+    },
+    {
+      "lpToken": "0xb36ec83D844c0579Ec2493f10b2087E96Bb65460",
+      "pricePoints": {
+        "TF1-LF4": 7.266
+      },
+      "decimals": 18,
+      "dex": "Uniswap",
+      "tokens": [
+        "0xb2617246d0c6c0087f18703d576831899ca94f01",
+        "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2"
+      ],
+      "dexAddLiquidityPage": "https://app.uniswap.org/#/add/v2/0xb2617246d0c6c0087f18703d576831899ca94f01/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
       "dexSwapPage": "https://app.uniswap.org/#/swap?outputCurrency=0x40986a85b4cfcdb054a6cbfb1210194fee51af88&inputCurrency=ETH&chain=mainnet"
     }
   ]
