@@ -136,20 +136,7 @@
       "dexAddLiquidityPage": "",
       "dexSwapPage": ""
     },
-    {
-      "lpToken": "0x112427D4C8F08698787A5d40641f3410aaed3197",
-      "pricePoints": {
-        "TF/V18": 0.01716
-      },
-      "decimals": 18,
-      "dex": "Uniswap V2",
-      "tokens": [
-        "0xc778417e063141139fce010982780140aa0cd5ab",
-        "0xd1a040a5d4E93C2A80Ed8ffE8A4222d2Cb26C72E"
-      ],
-      "dexAddLiquidityPage": "",
-      "dexSwapPage": ""
-    },
+
     {
       "lpToken": "0x93686771c565e3822eac9389d49f0ea8445cb7cd",
       "pricePoints": {
