@@ -178,6 +178,17 @@
         "TF1-LF4": 0.04
       },
       "chainId": 1
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/usdc.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF1-LF4": 1.01
+      },
+      "chainId": 1
     }
   ]
 }
