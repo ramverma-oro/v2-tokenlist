@@ -319,6 +319,17 @@
         "TF/V16": 320
       },
       "chainId": 4
+    },
+    {
+      "name": "USDC",
+      "symbol": "USDC",
+      "address": "0x9fEddE702f90FFBf211668752e3CE5c6b65EbcE5",
+      "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/usdc.png",
+      "decimals": 18,
+      "pricePoints": {
+        "TF/V16": 1
+      },
+      "chainId": 4
     }
   ]
 }
