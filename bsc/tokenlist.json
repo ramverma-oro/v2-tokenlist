@@ -23,7 +23,7 @@
       "name": "Binance-Peg BUSD Token",
       "symbol": "BUSD",
       "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
-      "icon": "https://my.oropocket.com/unifarm/assets/icons/Layer56.png",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/busd.png",
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 1,
