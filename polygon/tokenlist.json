@@ -11,7 +11,8 @@
       "decimals": 18,
       "pricePoints": {
         "TF1-M": 0.003095,
-        "TF/V17": 0.0025
+        "TF/V17": 0.0025,
+        "YF-CC": 0.0025
       }
     },
     {
@@ -21,7 +22,8 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/route.png",
       "decimals": 18,
       "pricePoints": {
-        "TF/V17": 3
+        "TF/V17": 3,
+        "YF-CC": 3
       }
     },
     {
@@ -31,7 +33,8 @@
       "icon": "https://raw.githubusercontent.com/InfernalHeir/tokenlist/master/.github/assets/icons/dfyn.png",
       "decimals": 18,
       "pricePoints": {
-        "TF/V17": 0.035
+        "TF/V17": 0.035,
+        "YF-CC": 0.035
       }
     },
     {
