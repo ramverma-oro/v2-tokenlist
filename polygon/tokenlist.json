@@ -12,7 +12,8 @@
       "pricePoints": {
         "TF1-M": 0.003095,
         "TF/V17": 0.0025,
-        "YF-CC": 0.0025
+        "YF-CC": 0.0025,
+        "YF-C2": 0.0025
       }
     },
     {
@@ -23,7 +24,8 @@
       "decimals": 18,
       "pricePoints": {
         "TF/V17": 3,
-        "YF-CC": 3
+        "YF-CC": 3,
+        "YF-C2": 3
       }
     },
     {
@@ -34,7 +36,8 @@
       "decimals": 18,
       "pricePoints": {
         "TF/V17": 0.035,
-        "YF-CC": 0.035
+        "YF-CC": 0.035,
+        "YF-C2": 0.035
       }
     },
     {
