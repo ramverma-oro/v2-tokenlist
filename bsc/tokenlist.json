@@ -15,7 +15,8 @@
         "BSC/LF4": 0.0028,
         "BSC/LF5": 0.0028,
         "TF1-YF2": 0.00227,
-        "TF1-LF3": 0.0025
+        "TF1-LF3": 0.0025,
+        "TF2-YF1": 0.0037
       },
       "chainId": 56
     },
@@ -101,7 +102,8 @@
         "BSC/LF4": 0.00052,
         "BSC/LF5": 0.00052,
         "TF1-YF2": 0.000326,
-        "TF1-LF3": 0.00032
+        "TF1-LF3": 0.00032,
+        "TF2-YF1": 0.0001969
       },
       "chainId": 56
     },
@@ -138,6 +140,17 @@
       "pricePoints": {
         "TF1-YF2": 0.0588,
         "TF1-LF3": 0.058
+      },
+      "chainId": 56
+    },
+    {
+      "name": "AceCash",
+      "symbol": "ACEC",
+      "address": "0x6AF7bbF137b93aB5cc8F24F85B9c8cfAb807bC7A",
+      "icon": "https://my.oropocket.com/unifarm/assets/icons/Ace.png",
+      "decimals": 8,
+      "pricePoints": {
+        "TF2-YF1": 0.725
       },
       "chainId": 56
     }
