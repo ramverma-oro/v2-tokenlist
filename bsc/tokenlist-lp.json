@@ -91,7 +91,7 @@
         "0x6af7bbf137b93ab5cc8f24f85b9c8cfab807bc7a",
         "0x0a356f512f6fce740111ee04ab1699017a908680"
       ],
-      "dexAddLiquidityPage": "https://pancakeswap.finance/add/0x6af7bbf137b93ab5cc8f24f85b9c8cfab807bc7a/BNB",
+      "dexAddLiquidityPage": "https://pancakeswap.finance/add/0x6af7bbf137b93ab5cc8f24f85b9c8cfab807bc7a/0x0a356f512f6fce740111ee04ab1699017a908680",
       "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
     },
     {
@@ -105,7 +105,7 @@
         "0xdbb66eb9f4d737b49ae5cd4de25e6c8da8b034f9",
         "0x0a356f512f6fce740111ee04ab1699017a908680"
       ],
-      "dexAddLiquidityPage": "https://pancakeswap.finance/add/0xdbb66eb9f4d737b49ae5cd4de25e6c8da8b034f9/BNB",
+      "dexAddLiquidityPage": "https://pancakeswap.finance/add/0xdBB66Eb9f4D737B49aE5CD4De25E6C8da8B034f9/0x0A356f512f6fCE740111ee04Ab1699017a908680",
       "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
     }
   ]
