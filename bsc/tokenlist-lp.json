@@ -9,7 +9,8 @@
         "LF/V1": 1.49,
         "BSC/LF4": 1.64,
         "BSC/LF5": 1.64,
-        "TF1-LF3": 1.64
+        "TF1-LF3": 1.64,
+        "TF2-LF1": 1.64
       },
       "decimals": 18,
       "dex": "PancakeSwap",
@@ -77,6 +78,34 @@
         "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c"
       ],
       "dexAddLiquidityPage": "https://pancakeswap.finance/add/0x65ad6a2288b2dd23e466226397c8f5d1794e58fc/BNB",
+      "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
+    },
+    {
+      "lpToken": "0xA2fF94F4b9c9c3aB6997976072c0A2860d778406",
+      "pricePoints": {
+        "TF2-LF1": 7194
+      },
+      "decimals": 18,
+      "dex": "PancakeSwap",
+      "tokens": [
+        "0x6af7bbf137b93ab5cc8f24f85b9c8cfab807bc7a",
+        "0x0a356f512f6fce740111ee04ab1699017a908680"
+      ],
+      "dexAddLiquidityPage": "https://pancakeswap.finance/add/0x6af7bbf137b93ab5cc8f24f85b9c8cfab807bc7a/BNB",
+      "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
+    },
+    {
+      "lpToken": "0x36969E41129a34a25a94B16f24a66f706EF2b3E7",
+      "pricePoints": {
+        "TF2-LF1": 0.001156
+      },
+      "decimals": 18,
+      "dex": "PancakeSwap",
+      "tokens": [
+        "0xdbb66eb9f4d737b49ae5cd4de25e6c8da8b034f9",
+        "0x0a356f512f6fce740111ee04ab1699017a908680"
+      ],
+      "dexAddLiquidityPage": "https://pancakeswap.finance/add/0xdbb66eb9f4d737b49ae5cd4de25e6c8da8b034f9/BNB",
       "dexSwapPage": "https://pancakeswap.finance/swap?outputCurrency=0x0a356f512f6fce740111ee04ab1699017a908680&inputCurrency=bnb"
     }
   ]
