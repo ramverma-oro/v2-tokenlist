@@ -17,7 +17,8 @@
         "TF1-YF2": 0.00227,
         "TF1-LF3": 0.0025,
         "TF2-YF1": 0.0037,
-        "TF2-LF1": 0.0037
+        "TF2-LF1": 0.0037,
+        "SFJ23": 0.0015
       },
       "chainId": 56
     },
@@ -66,7 +67,8 @@
       "decimals": 18,
       "pricePoints": {
         "LF/V1": 211.34,
-        "YF/V4": 233.43
+        "YF/V4": 233.43,
+        "SFJ23": 292
       },
       "chainId": 56
     },
@@ -77,7 +79,8 @@
       "icon": "https://my.oropocket.com/unifarm/assets/icons/shib.png",
       "decimals": 18,
       "pricePoints": {
-        "LF/V1": 0.00001026
+        "LF/V1": 0.00001026,
+        "SFJ23": 0.00001237
       },
       "chainId": 56
     },
